@@ -1,0 +1,10 @@
+crm_pipeline:
+  target: dev
+  outputs:
+    dev:
+      type: mysql
+      server: 193.203.175.99
+      port: 3306
+      database: u794777727_crm_pipeline
+      username: u794777727_juan_jp777
+      password: 10032007Ajp$
