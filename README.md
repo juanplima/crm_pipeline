@@ -6,7 +6,7 @@ Pipeline de dados end-to-end para ingestão, transformação e modelagem de dado
 
 ## 📌 Sobre o projeto
 
-Pipeline orquestrado com Airflow que extrai dados brutos de arquivos CSV, realiza transformações e padronizações com Python e Pandas, carrega os dados em um banco relacional e aplica modelagem analítica com DBT — seguindo as boas práticas de engenharia de dados com separação clara entre camada raw e camada analítica.
+Pipeline orquestrado com Airflow que extrai dados brutos de arquivos CSV, realiza transformações e padronizações com Python e Pandas, carrega os dados em um banco relacional e aplica modelagem analítica com DBT, seguindo as boas práticas de engenharia de dados com separação clara entre camada raw e camada analítica.
 
 ---
 
